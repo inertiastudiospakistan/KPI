@@ -1,0 +1,8 @@
+{
+  "name": "Dragon LTD KPI Tracker",
+  "description": "Comprehensive employee performance and activity tracking system with GPS validation and reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
